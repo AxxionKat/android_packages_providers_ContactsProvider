@@ -15,5 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="local_invisible_directory">மற்ற</string>
+  <string name="debug_dump_delete_button">ھازىر ئۆچۈر</string>
+  <string name="debug_dump_email_sender_picker">ھۆججىتىڭىزنى يوللايدىغان پىروگراممىدىن بىرنى تاللاڭ</string>
 </resources>
